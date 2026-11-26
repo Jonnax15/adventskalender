@@ -1,0 +1,16 @@
+{
+  "name": "Wichtelwerkstatt",
+  "short_name": "Wichtelwerkstatt",
+  "description": "Der Adventskalender der Wichtelwerkstatt",
+  "lang": "de",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#10261d",
+  "background_color": "#10261d",
+  "icons": [
+    { "src": "assets/app-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/app-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
